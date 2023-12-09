@@ -23,3 +23,7 @@ Criarei o projeto com uma dimensão diferente, um pouco menor (520mmx620mm)
     - M3 x 8mm (pack com 50 peças) - R$ 6,24 (https://bit.ly/3RgYVDD)
     - M5 x 10mm  (Pack 10 peças) - R$ 9,34 (https://bit.ly/3RgYVDD)
     - Porca  M5 (Pack com 20 peças) - R$ 7,32 (https://bit.ly/3v0XHEU)
+
+
+- Forseti - R$ 369,29
+- Ali - R$ 218,90

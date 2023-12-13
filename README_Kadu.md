@@ -17,6 +17,7 @@ Criarei o projeto com uma dimensão diferente, um pouco menor (520mmx620mm)
     - 2x Conexão interna 90º V-Slot - R$ 21,53 (https://loja.forsetisolucoes.com.br/conexao-interna-makerlink-l-90-vslot-v-slot-openbuilds)
     - 1x Fim de curso (Pack com 6) - R$ 20,78 (https://s.click.aliexpress.com/e/_DEFZt3B)
     - 1x Caixa com porcas T (Pack com 20 de cada [m3, m4, m5]) - R$ 45,23 (https://s.click.aliexpress.com/e/_DCLrylP)
+    - 1x Arduino NANO c/ 8825KIR - R$ 39,50 (https://bit.ly/3No7lrL)
 
 - Parafusos
     - M5 x 35mm  (Pack 10 peças) - R$ 14,75 (https://bit.ly/3RgYVDD)

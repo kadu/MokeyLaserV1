@@ -31,15 +31,15 @@ Criarei o projeto com uma dimensão diferente, um pouco menor (520mmx620mm)
 
 # Impressões 3D
 
-| Arquivo                                   | Status        | Qtde    |    
-| ----------------------------------------- | ------------- | ------- |
-| 01 Laser Mount 16mm x 40mm M3 LA-2 v3.stl | Impresso      |      01 |
-| 02 Laser holder base v1.stl               | Imprimindo    |      01 |
-| 03 X-Axis Stepper Mount v1.stl            | TODO          |      01 |
-| 04 Laser Focus Knob v1.stl                | TODO          |      01 |
-| 05 V-Wheel Bushing v1.stl                 | TODO          |      04 |
-| 06 Y-Drive Panel L v1.stl                 | TODO          |      01 |
-| 06 Y-Drive Panel R v1.stl                 | TODO          |      01 |
-| 08 Y-Drive Side Panel v1.stl              | TODO          |      01 |
-| 09 Left Leg v1.stl                        | TODO          |      01 |
-| 09 Right Leg v1.stl                       | TODO          |      01 |
+| Arquivo 💾                                | Status 🖨️     | Qtde 📠 |  Tempo ⏰          |  
+| ----------------------------------------- | ------------- | ------- | ------------------ |
+| 01 Laser Mount 16mm x 40mm M3 LA-2 v3.stl | Impresso      |      01 | 01:30 h            |
+| 02 Laser holder base v1.stl               | Impresso      |      01 | 03:40 h            |
+| 03 X-Axis Stepper Mount v1.stl            | Imprimindo    |      01 | 00:00 h            |
+| 04 Laser Focus Knob v1.stl                | TODO          |      01 | 00:00 h            |
+| 05 V-Wheel Bushing v1.stl                 | TODO          |      04 | 00:00 h            |
+| 06 Y-Drive Panel L v1.stl                 | TODO          |      01 | 00:00 h            |
+| 06 Y-Drive Panel R v1.stl                 | TODO          |      01 | 00:00 h            |
+| 08 Y-Drive Side Panel v1.stl              | TODO          |      01 | 00:00 h            |
+| 09 Left Leg v1.stl                        | TODO          |      01 | 00:00 h            |
+| 09 Right Leg v1.stl                       | TODO          |      01 | 00:00 h            |

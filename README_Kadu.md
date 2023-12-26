@@ -28,3 +28,18 @@ Criarei o projeto com uma dimensão diferente, um pouco menor (520mmx620mm)
 
 - Forseti - R$ 369,29
 - Ali - R$ 218,90
+
+# Impressões 3D
+
+| Arquivo                                   | Status        | Qtde    |    
+| ----------------------------------------- | ------------- | ------- |
+| 01 Laser Mount 16mm x 40mm M3 LA-2 v3.stl | Impresso      |      01 |
+| 02 Laser holder base v1.stl               | Imprimindo    |      01 |
+| 03 X-Axis Stepper Mount v1.stl            | TODO          |      01 |
+| 04 Laser Focus Knob v1.stl                | TODO          |      01 |
+| 05 V-Wheel Bushing v1.stl                 | TODO          |      04 |
+| 06 Y-Drive Panel L v1.stl                 | TODO          |      01 |
+| 06 Y-Drive Panel R v1.stl                 | TODO          |      01 |
+| 08 Y-Drive Side Panel v1.stl              | TODO          |      01 |
+| 09 Left Leg v1.stl                        | TODO          |      01 |
+| 09 Right Leg v1.stl                       | TODO          |      01 |

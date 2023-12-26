@@ -6,7 +6,7 @@
  _|    _|  _|    _|  _|    _|    _|      _|  _|      _|_|    _|      
  _|_|_|      _|_|    _|    _|    _|      _|  _|  _|_|_|        _|_|  
                                                                      
-                                                                     
+Bill of materials - Lista de Compras
 --
 
 - Perfil Estrutural 20x40 V-Slot

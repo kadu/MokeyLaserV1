@@ -37,9 +37,9 @@ Criarei o projeto com uma dimensão diferente, um pouco menor (520mmx620mm)
 | 02 Laser holder base v1.stl               | Impresso      |      01 | 03:40 h            |
 | 03 X-Axis Stepper Mount v1.stl            | Impresso      |      01 | 02:53 h            |
 | 04 Laser Focus Knob v1.stl                | Impresso      |      01 | 43:00 h            |
-| 05 V-Wheel Bushing v1.stl                 | Imprimindo    |      04 | 00:00 h            |
-| 06 Y-Drive Panel L v1.stl                 | TODO          |      01 | 00:00 h            |
-| 06 Y-Drive Panel R v1.stl                 | TODO          |      01 | 00:00 h            |
+| 05 V-Wheel Bushing v1.stl                 | Impresso      |      04 | 00:11 h            |
+| 06 Y-Drive Panel L v1.stl                 | Impresso      |      01 | 03:40 h            |
+| 06 Y-Drive Panel R v1.stl                 | Imprimindo    |      01 | 00:00 h            |
 | 08 Y-Drive Side Panel v1.stl              | TODO          |      01 | 00:00 h            |
 | 09 Left Leg v1.stl                        | TODO          |      01 | 00:00 h            |
 | 09 Right Leg v1.stl                       | TODO          |      01 | 00:00 h            |

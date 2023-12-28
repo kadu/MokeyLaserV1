@@ -31,15 +31,18 @@ Criarei o projeto com uma dimensão diferente, um pouco menor (520mmx620mm)
 
 # Impressões 3D
 
-| Arquivo 💾                                | Status 🖨️     | Qtde 📠 |  Tempo ⏰          |  
-| ----------------------------------------- | ------------- | ------- | ------------------ |
-| 01 Laser Mount 16mm x 40mm M3 LA-2 v3.stl | Impresso      |      01 | 01:30 h            |
-| 02 Laser holder base v1.stl               | Impresso      |      01 | 03:40 h            |
-| 03 X-Axis Stepper Mount v1.stl            | Impresso      |      01 | 02:53 h            |
-| 04 Laser Focus Knob v1.stl                | Impresso      |      01 | 43:00 h            |
-| 05 V-Wheel Bushing v1.stl                 | Impresso      |      04 | 00:11 h            |
-| 06 Y-Drive Panel L v1.stl                 | Impresso      |      01 | 03:40 h            |
-| 06 Y-Drive Panel R v1.stl                 | Impresso      |      01 | 03:40 h            |
-| 08 Y-Drive Side Panel v1.stl              | Impresso      |      01 | 02:10 h            |
-| 09 Left Leg v1.stl                        | Imprimindo    |      02 | 02:40 h            |
-| 09 Right Leg v1.stl                       | TODO          |      02 | 00:00 h            |
+| Arquivo 💾                                | Status 🖨️     | Qtde 📠 | Tempo (Individual)⏰ |  
+| ----------------------------------------- | ------------- | ------- | -------------------- |
+| 01 Laser Mount 16mm x 40mm M3 LA-2 v3.stl | Impresso      |      01 | 01:30 h              |
+| 02 Laser holder base v1.stl               | Impresso      |      01 | 03:40 h              |
+| 03 X-Axis Stepper Mount v1.stl            | Impresso      |      01 | 02:53 h              |
+| 04 Laser Focus Knob v1.stl                | Impresso      |      01 | 43:00 h              |
+| 05 V-Wheel Bushing v1.stl                 | Impresso      |      04 | 00:11 h              |
+| 06 Y-Drive Panel L v1.stl                 | Impresso      |      01 | 03:40 h              |
+| 06 Y-Drive Panel R v1.stl                 | Impresso      |      01 | 03:40 h              |
+| 08 Y-Drive Side Panel v1.stl              | Imprimindo    |      02 | 02:10 h              |
+| 09 Left Leg v1.stl                        | Impresso      |      02 | 02:40 h              |
+| 09 Right Leg v1.stl                       | Impresso      |      02 | 02:40 h              |
+| E-Stop box bottom.stl                     | TODO / Maybe  |      01 | 00:00 h              |
+| E-Stop box top.stl                        | TODO / Maybe  |      01 | 00:00 h              |
+| Limit switch mount 4mm v1.stl             | TODO / Maybe  |      01 | 00:00 h              |
